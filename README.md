@@ -1,5 +1,6 @@
-Description:
+(view in code mode for best formatting)
 
+Description:
 This guide helps you dynamically model the cash flows of a fixed-income security and calculate common return metrics (NPV, MOIC, IRR).
 
 1. Enabling VBA Macros:
