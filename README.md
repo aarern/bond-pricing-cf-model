@@ -1,4 +1,4 @@
-(view in code mode for best formatting)
+# Bond Cash Flow Pricing Model
 
 Description:
 This guide helps you dynamically model the cash flows of a fixed-income security and calculate common return metrics (NPV, MOIC, IRR).
@@ -6,7 +6,7 @@ This guide helps you dynamically model the cash flows of a fixed-income security
 1. Enabling VBA Macros:
 Open Excel settings (Alt + F T).
 Go to the "Customize Ribbon" tab and check the "Developer" box.
-Open "Trust Center" from the Excel settings.
+Open the "Trust Center" from the Excel settings.
 Select "Trust Center Settings."
 Go to the "Trusted Locations" tab and select "Add a new location."
 Browse to the location where the macro-enabled workbook will be saved.
