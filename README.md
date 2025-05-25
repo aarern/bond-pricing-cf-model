@@ -3,6 +3,8 @@
 Description:
 This guide helps you dynamically model the cash flows of a fixed-income security and calculate common return metrics (NPV, MOIC, IRR).
 
+![image alt](https://github.com/aarern/bond-pricing-cf-model/blob/225d5112322358201cb73378c523b4b532cf0a0f/images/pri1.png)
+
 1. Enabling VBA Macros:
 Open Excel settings (Alt + F T).
 Go to the "Customize Ribbon" tab and check the "Developer" box.
